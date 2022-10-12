@@ -1,4 +1,6 @@
 # Server Side Programming Final Exam  
+create by [MarkKh](https://github.com/MarkKh) :information_desk_person:	
+
 ## Semester 1 Year 2565
 ### ชุดที่ 1 Backend (35 points)
 
