@@ -1,10 +1,13 @@
 # Server Side Programming Final Exam  
-by 63310632 [MarkKh](https://github.com/MarkKh) :information_desk_person:
+by 63310632 [MarkKh](https://github.com/MarkKh) :information_desk_person: <br>
 _Database Camera_
 - :white_check_mark: create
 - :white_check_mark: update
 - :white_check_mark: delete
-- :white_check_mark: put
+- :white_check_mark: get all
+- :white_check_mark: get by id
+_JWT_
+- :white_check_mark: login
 
 ## Semester 1 Year 2565
 ### ชุดที่ 1 Backend (35 points)
