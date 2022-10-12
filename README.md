@@ -6,6 +6,7 @@ _Database Camera_
 - :white_check_mark: delete
 - :white_check_mark: get all
 - :white_check_mark: get by id
+
 _JWT_
 - :white_check_mark: login
 
